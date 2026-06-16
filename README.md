@@ -1,52 +1,148 @@
-## 🚀 A Little About Me
+```md
+# 👋 Hi, I'm Chan Douern
 
+<h3 align="center">🚀 Aspiring Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on web development projects.
-- 🌱 I’m currently learning PHP, Java Sprint Boot, MySQL, Laravel, Project Vue.js.
-- 👯 I’m looking to collaborate on web application projects.
-- 🤔 I’m looking for help with advanced backend development
-- 📫 How to reach me: chandouern708@gmail.com
-- 🎯 My future plan is to become a Professional Full-Stack Developer
+<p align="center">
+  Passionate about building modern web applications and continuously improving my development skills.
+</p>
 
+---
 
-<div>
+## 🚀 About Me
+
+- 🔭 Currently working on Web Development Projects
+- 🌱 Learning **PHP, Laravel, Java Spring Boot, MySQL, Vue.js**
+- 👯 Looking to collaborate on Web Application Projects
+- 🤝 Looking for help with Advanced Backend Development
+- 📫 Reach me at: **chandouern708@gmail.com**
+- 🎯 Goal: Become a Professional Full-Stack Developer
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,tailwind" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,mysql" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douern708&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douern708&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Douern708&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Douern708&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Douern708&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:chandouern708@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
   <a href="https://github.com/Douern708">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Doeurn708&show_icons=true&theme=dark&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgetMeas22&layout=compact&langs_count=16&theme=dark" />
-  </a>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Meas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Meas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Meas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Meas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Meas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Meas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Meas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
-
-<div>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <br><br>
-  <img src="https://github.com/NgetMeas22/NgetMeas22/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+  <!-- Replace with your LinkedIn -->
+  <!--
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  -->
+
+  <!-- Replace with your Facebook -->
+  <!--
+  <a href="https://facebook.com/your-profile">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  -->
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Website
+- Vue.js + Pinia
+- Product Management
+- Shopping Cart
+- Order System
+
+### 📚 Library Management System
+- PHP & MySQL
+- CRUD Operations
+- Search & Filter
+
+### 🎓 Student Management System
+- Laravel
+- Authentication
+- Dashboard & Reports
+
+### 🔗 REST API Project
+- Spring Boot
+- MySQL
+- JWT Authentication
+
+---
+
+## 💡 Developer Quote
+
+> "Success comes from continuous learning, consistent practice, and never giving up."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Douern708&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+⭐ If you like my projects, don't forget to star them!
+```
