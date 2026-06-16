@@ -84,7 +84,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://github.com/Doeurn708/Doeurn708/blob/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Doeurn708/Doeurn708/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
