@@ -1,9 +1,8 @@
 # 🚀 A Little About Me
-
-- 🔭 I’m currently working on Web Development Projects
-- 🌱 I’m currently learning PHP, Java Spring Boot, MySQL, Laravel, and Vue.js
-- 👯 I’m looking to collaborate on Web Application Projects
-- 🤝 I’m looking for help with Advanced Backend Development
+- 🔭 I'm currently working on Web Development Projects
+- 🌱 I'm currently learning PHP, Java Spring Boot, MySQL, Laravel, and Vue.js
+- 👯 I'm looking to collaborate on Web Application Projects
+- 🤝 I'm looking for help with Advanced Backend Development
 - 📫 How to reach me: chandouern708@gmail.com
 - 🎯 My future goal is to become a Professional Full-Stack Developer
 
@@ -25,7 +24,6 @@
 ---
 
 ## 🛠️ Technologies & Tools
-
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -41,7 +39,6 @@
 ---
 
 ## 🚀 Top Repositories
-
 - 🍔 Order-Food-Etec
 - 🛒 ORDER-FOOD
 - 🌐 Portfolio
@@ -56,24 +53,19 @@
 ---
 
 ## 🌐 Connect With Me
-
 <div>
   <a href="mailto:chandouern708@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://github.com/Doeurn708">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="#">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-
   <a href="#">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -82,9 +74,8 @@
 ---
 
 ## 🐍 Contribution Snake
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/Doeurn708/Doeurn708/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Doeurn708/Doeurn708/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
