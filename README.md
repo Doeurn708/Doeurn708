@@ -168,29 +168,23 @@ I'm a passionate developer from Cambodia who enjoys building web applications, d
 ---
 
 
-<!-- ================= GITHUB CONTRIBUTION SNAKE ================= -->
 
-<h2 align="center">🐍 GitHub Contribution Activity</h2>
+## 🐍 GitHub Contribution Activity
 
 <p align="center">
-  <b>My GitHub contributions visualized as a snake animation</b>
+  My GitHub contributions visualized as a snake animation.
 </p>
 
 <div align="center">
   <picture>
-    <!-- Dark Mode -->
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Doeurn708/Doeurn708/output/github-contribution-grid-snake-dark.svg"
     />
-
-    <!-- Light Mode -->
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/Doeurn708/Doeurn708/output/github-contribution-grid-snake.svg"
     />
-
-    <!-- Default Image -->
     <img
       src="https://raw.githubusercontent.com/Doeurn708/Doeurn708/output/github-contribution-grid-snake.svg"
       alt="GitHub Contribution Snake Animation"
@@ -199,16 +193,6 @@ I'm a passionate developer from Cambodia who enjoys building web applications, d
   </picture>
 </div>
 
-<p align="center">
-  <a href="https://github.com/Doeurn708/Doeurn708/tree/output">
-    <img
-      src="https://img.shields.io/badge/View-Snake%20Files-2ea44f?style=for-the-badge&logo=github"
-      alt="View Snake Files"
-    />
-  </a>
-</p>
-
-<!-- ============================================================ -->
 
 
 ## 🌐 Connect With Me
