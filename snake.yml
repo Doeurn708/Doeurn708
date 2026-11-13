@@ -1,22 +1,29 @@
-name: Generate Snake
+
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # ដំណើរការរៀងរាល់ថ្ងៃនៅម៉ោង 12 យប់ UTC
-  workflow_dispatch:        # អនុញ្ញាតឱ្យដំណើរការដោយដៃ
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Doeurn708
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Deploy Snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
