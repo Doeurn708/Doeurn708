@@ -1,49 +1,60 @@
-# 👋 សួស្តី! ខ្ញុំឈ្មោះ Chorm Chandouern
+
+<!-- ================= PROFILE HEADER ================= -->
 
 <div align="center">
 
+# 👋 Hi, I'm Chorm Chandouern
+
 ### 🚀 Aspiring Full-Stack Developer | Backend Developer
 
-**ស្រឡាញ់ការសរសេរកូដ · បង្កើតកម្មវិធី · រៀនបច្ចេកវិទ្យាថ្មីៗ**
+Building Web Applications | Learning New Technologies | Solving Problems
 
-[![GitHub](https://img.shields.io/badge/GitHub-Doeurn708-181717?style=for-the-badge&logo=github)](https://github.com/Doeurn708)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:chandouern708@gmail.com)
+<p>
+  <a href="https://github.com/Doeurn708">
+    <img src="https://img.shields.io/badge/GitHub-Doeurn708-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:chandouern708@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🙋‍♂️ អំពីខ្ញុំ (About Me)
+## 🙋‍♂️ About Me
 
-ខ្ញុំជាអ្នកសិក្សា និងអភិវឌ្ឍកម្មវិធី Web Application មកពីប្រទេសកម្ពុជា។ ខ្ញុំចូលចិត្តបង្កើតកម្មវិធីដែលអាចដោះស្រាយបញ្ហាជាក់ស្តែង និងបង្កើនចំណេះដឹងផ្នែក Software Development ជាបន្តបន្ទាប់។
+I'm a developer from Cambodia passionate about building modern web applications and learning software engineering.
 
-- 🔭 បច្ចុប្បន្នកំពុងអភិវឌ្ឍ **Web Application Projects**
-- 🌱 កំពុងសិក្សា **PHP, Laravel, Java Spring Boot, C# និង ASP.NET Core**
-- 🎨 មានចំណាប់អារម្មណ៍លើ **Vue.js, JavaScript និង TypeScript**
-- 🗄️ កំពុងពង្រឹងជំនាញ **MySQL, PostgreSQL និង Database Design**
-- 🔌 ចូលចិត្តសិក្សា **RESTful API និង Backend Architecture**
-- 👯 ចង់សហការជាមួយ Developer ផ្សេងៗលើ Web Projects
-- 🎯 គោលដៅ៖ ក្លាយជា **Professional Full-Stack Developer**
+- 🔭 Currently working on Web Development Projects
+- 🌱 Learning PHP, Laravel, Java Spring Boot, C#, ASP.NET Core
+- 🎨 Frontend: Vue.js, React, JavaScript, TypeScript
+- ⚙️ Backend: Laravel, Spring Boot, ASP.NET Core
+- 🗄️ Database: MySQL, PostgreSQL
+- 🔌 Interested in RESTful APIs and Backend Architecture
+- 👯 Looking to collaborate on Web Application Projects
+- 🎯 Goal: Become a Professional Full-Stack Developer
+- 📫 Email: chandouern708@gmail.com
 
 ---
 
-## 🛠️ Tech Stack & Technologies
+## 🛠️ Technical Skills
 
 ### 🎨 Frontend Development
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind" />
 </p>
 
 ### ⚙️ Backend Development
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,cs,dotnet" />
 </p>
 
 ### 🗄️ Database & Tools
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,vscode,postman" />
 </p>
 
@@ -51,16 +62,14 @@
 
 ## 🚀 Featured Projects
 
-គម្រោងមួយចំនួនដែលអ្នកអាចចូលមើលបាន៖
-
-| Project | Description | Demo |
+| Project | Description | Repository |
 |---|---|---|
-| 🌐 Zendoone | Web Project | [Live Demo](https://zendoone-me.vercel.app/) |
-| 🎁 Suprices | Web Application | [Live Demo](https://suprices.vercel.app/) |
-| 🎓 Finally-project | Vue.js Project | [Live Demo](https://finally-project-bay.vercel.app/) |
-| 🍔 Order-Food-Etec | Food Ordering Project | [Source Code](https://github.com/Doeurn708/Order-Food-Etec) |
-| 🎧 Airpod-Shop | E-commerce Project | [Source Code](https://github.com/Doeurn708/Airpod-Shop) |
-| ☕ Java_OOP | Java Learning Project | [Source Code](https://github.com/Doeurn708/Java_OOP) |
+| 🏥 ClinicCare | Clinic Management System | [View](https://github.com/Doeurn708) |
+| 🎫 Event Booking | Event Ticket Booking System | [View](https://github.com/aoksothatt/Event-Ticket-Booking-System-Team6-Backend-) |
+| 🛒 E-Commerce | Online Shopping Application | [View](https://github.com/Doeurn708) |
+| 🍔 Order Food | Food Ordering Application | [View](https://github.com/Doeurn708/Order-Food-Etec) |
+| 🎧 Airpod Shop | E-commerce Project | [View](https://github.com/Doeurn708/Airpod-Shop) |
+| 📚 Java OOP | Java Object-Oriented Programming | [View](https://github.com/Doeurn708/Java_OOP) |
 
 ---
 
@@ -80,7 +89,7 @@
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -90,11 +99,18 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Doeurn708/Doeurn708/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Doeurn708/Doeurn708/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Doeurn708/Doeurn708/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Doeurn708/Doeurn708/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -120,7 +136,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Doeurn708&label=Profile%20Views&color=blue&style=flat" />
 
-### ⭐ អរគុណសម្រាប់ការចូលមកមើល Profile របស់ខ្ញុំ!
+### ⭐ Thanks for visiting my GitHub Profile!
 
 **Keep Learning 📚 | Keep Coding 💻 | Keep Growing 🚀**
 
